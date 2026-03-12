@@ -1,0 +1,7 @@
+.centered {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    position: relative;
+    align-items: center;
+  }
